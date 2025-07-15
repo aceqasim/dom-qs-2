@@ -1,18 +1,6 @@
-body{
-    background-color: #170731;
-    color: aliceblue;
-
-}
-
-p{
-    color: yellow;
-}
-
-button{
-    background-color: aliceblue;
-    color: blue;
-    font-size: large;
-}
-.heading{
-    color: goldenrod;
+.box {
+   background-color:  aqua;
+   margin: 3px ;
+   height: 100px;
+   width: 100px;
 }
